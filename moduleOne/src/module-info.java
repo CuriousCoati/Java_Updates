@@ -1,0 +1,3 @@
+module moduleOne {
+    requires moduleTwo;
+}
